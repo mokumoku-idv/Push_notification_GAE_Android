@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/g-2015/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.19.0/6a21277d9bebe267b7ddee028b241eebc756c040/google-api-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6a21277d9bebe267b7ddee028b241eebc756c040">
+        <dex dex="/Users/g-2015/Documents/AndroidApp/Push_notification_gae/app/build/intermediates/pre-dexed/debug/google-api-client-1.19.0-1cfec2db822dcf1d75ddf1c0f49d287ed7d5dfc9.jar" />
+    </item>
+    <item
+        jar="/Users/g-2015/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="/Users/g-2015/Documents/AndroidApp/Push_notification_gae/app/build/intermediates/pre-dexed/debug/guava-jdk5-13.0-98570be639030bf93e4396fe72f6c1d8936e8a8c.jar" />
+    </item>
+    <item
+        jar="/Users/g-2015/Documents/AndroidApp/Push_notification_gae/backend/build/libs/backend-android-endpoints.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="044ceead5fcb1dc599ff086289d658937c357da4">
+        <dex dex="/Users/g-2015/Documents/AndroidApp/Push_notification_gae/app/build/intermediates/pre-dexed/debug/backend-android-endpoints-f904eff21c45c8f46b3c3fcd74b00c95ee3c1cde.jar" />
+    </item>
+    <item
+        jar="/Users/g-2015/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.19.0/d473a8962e14a707a3716637e4898bb2dd9643f2/google-oauth-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
+        <dex dex="/Users/g-2015/Documents/AndroidApp/Push_notification_gae/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.19.0-5e9945782820ab975ac5cb2bb78e46493b18db85.jar" />
+    </item>
+    <item
+        jar="/Users/g-2015/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/g-2015/Documents/AndroidApp/Push_notification_gae/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9-edd8ff87eeb09f2ce55da0e465303966c5e32998.jar" />
+    </item>
+    <item
+        jar="/Users/g-2015/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.19.0/e3f11020c2c812112803d252d1392872d3f619c8/google-http-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3f11020c2c812112803d252d1392872d3f619c8">
+        <dex dex="/Users/g-2015/Documents/AndroidApp/Push_notification_gae/app/build/intermediates/pre-dexed/debug/google-http-client-android-1.19.0-b506cdca69633a3ef11039f13e7aec173e127131.jar" />
+    </item>
+    <item
+        jar="/Users/g-2015/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/g-2015/Documents/AndroidApp/Push_notification_gae/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-40974cdb1f203ce50da5bd32b0301c3054ac5519.jar" />
+    </item>
+    <item
+        jar="/Users/g-2015/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/g-2015/Documents/AndroidApp/Push_notification_gae/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3-2b86f7f39c12790c3843a57db0052ec5e290004a.jar" />
+    </item>
+    <item
+        jar="/Users/g-2015/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.19.0/81dbf9795d387d5e80e55346582d5f2fb81a42eb/google-http-client-jackson2-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="/Users/g-2015/Documents/AndroidApp/Push_notification_gae/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.19.0-ab6e1954d0fcf128c92e316a47d900ebb6363370.jar" />
+    </item>
+    <item
+        jar="/Users/g-2015/Documents/AndroidApp/Push_notification_gae/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/g-2015/Documents/AndroidApp/Push_notification_gae/app/build/intermediates/pre-dexed/debug/classes-f4aed40fbf17c92bafedc0be1954535aa302f186.jar" />
+    </item>
+    <item
+        jar="/Users/g-2015/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.19.0/ba2aafb867f6af469f936ae76426cf0a280094bd/google-api-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba2aafb867f6af469f936ae76426cf0a280094bd">
+        <dex dex="/Users/g-2015/Documents/AndroidApp/Push_notification_gae/app/build/intermediates/pre-dexed/debug/google-api-client-android-1.19.0-93ec178873d82d18506d99807fd0b51edcccb187.jar" />
+    </item>
+    <item
+        jar="/Users/g-2015/Documents/AndroidApp/Push_notification_gae/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/g-2015/Documents/AndroidApp/Push_notification_gae/app/build/intermediates/pre-dexed/debug/classes-51f419a9e660666f8be0abe8f6b35f440e9ab353.jar" />
+    </item>
+    <item
+        jar="/Users/g-2015/Documents/AndroidApp/Push_notification_gae/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/g-2015/Documents/AndroidApp/Push_notification_gae/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-95450aaee8664e56059753f544fe7b5cb84e2b10.jar" />
+    </item>
+    <item
+        jar="/Users/g-2015/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.19.0/cdca49ad0977c040f603478aa2e16b2775c8fec6/google-http-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="/Users/g-2015/Documents/AndroidApp/Push_notification_gae/app/build/intermediates/pre-dexed/debug/google-http-client-1.19.0-9dca9400fd78dc6920a7a1f0fe30444bae570fd0.jar" />
+    </item>
+    <item
+        jar="/Users/g-2015/Documents/AndroidApp/Push_notification_gae/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/g-2015/Documents/AndroidApp/Push_notification_gae/app/build/intermediates/pre-dexed/debug/classes-a74352ba8206884a64d34f1e459d98cd5275fc73.jar" />
+    </item>
+
+</items>
